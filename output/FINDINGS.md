@@ -34,6 +34,7 @@
 
 ## References to Saved Charts
 - GPA by Department: `output/gpa_by_department.png`
+- GPA Violin Plot by Department: `output/gpa_violin_by_department.png`
 - Gpa Distribution: `output/gpa_distribution.png`
 - Study Hours Weekly Distribution: `output/study_hours_weekly_distribution.png`
 - Attendance Pct Distribution: `output/attendance_pct_distribution.png`
