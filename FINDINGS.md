@@ -1,7 +1,7 @@
-# FINDINGS — Student Performance EDA
+# FINDINGS - Student Performance EDA
 
 ## 1. Dataset Description
-- **Rows and Columns:** 2000 × 10
+- **Rows and Columns:** 2000 x 10
 - **Columns:** student_id, department, semester, course_load, study_hours_weekly, gpa, attendance_pct, has_internship, commute_minutes, scholarship
 - **Data Quality Issues:** commute_minutes: 181 missing, scholarship: 389 missing
 
@@ -25,7 +25,7 @@
 ### Hypothesis 2: Scholarship vs Department
 - Test: Chi-square test
 - Chi2 = 13.949, p-value = 0.3040, dof = 12
-- Interpretation: Scholarship status is No significant association with department.
+- Interpretation: No significant association between scholarship status and department.
 
 ## 5. Recommendations
 1. Encourage internships to improve student GPA.
